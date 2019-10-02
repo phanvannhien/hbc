@@ -1,0 +1,39 @@
+
+// Body
+$body-bg: #FFF;
+
+// Typography
+$font-family-sans-serif: "Nunito", sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$blue: #016f8a;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66D9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+
+
+$link-color: #333;
+$link-decoration: none ;
+
+
+$h1-font-size:                $font-size-base * 1.6 ;
+$h2-font-size:                $font-size-base * 1.4 ;
+$h3-font-size:                $font-size-base * 1.2 ;
+$h4-font-size:                $font-size-base ;
+$h5-font-size:                $font-size-base * 0.8 ;
+$h6-font-size:                $font-size-base !default;
+
+$input-btn-padding-y:         .3rem;
+$input-btn-padding-x:         .75rem !default;
+$input-btn-line-height:       $line-height-base !default;
+
+$table-cell-padding:          .4rem;
+$table-cell-padding-sm:       .3rem;

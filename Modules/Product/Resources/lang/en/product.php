@@ -1,0 +1,37 @@
+<?php
+return [
+    'product' => 'Products',
+    'categories' => 'Categories',
+    'description' => 'Description',
+    'products' => 'Products',
+    'product_code' => 'Product code',
+    'product_cas' => 'Product CAS',
+    'product_sku' => 'Product SKU',
+    'product_name' => 'Product Name',
+    'product_synonym' => 'Product synonym',
+    'product_formular' => 'Product formular',
+    'product_grade' => 'Product grade',
+    'product_concentration' => 'Product concentration',
+    'product_weight' => 'Product weight',
+    'product_tolerance' => 'Product tolerance',
+    'product_neck_size' => 'Product neck size',
+    'product_material' => 'Product material',
+    'brand' => 'Product brand',
+    'product_image' => 'Product image',
+    'product_attribute' => 'Product attribute',
+    'product_price' => 'Product price',
+    'attribute_value' => 'Attribute value',
+    'product_description' => 'Product description',
+    'sku' => 'Sku',
+    'availability' => 'Availability',
+    'price' => 'Price',
+    'attribute_id' => 'Attribute',
+    'view_more' => 'View more',
+    'quantity' => 'Quantity',
+    'neck_size' => 'Neck size',
+    'accuracy' => 'Accuracy',
+    'volumetric' => 'Volumetric',
+
+    
+
+];
