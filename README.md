@@ -1,4 +1,3 @@
-# step 1
 Run follow script
 
 ```
